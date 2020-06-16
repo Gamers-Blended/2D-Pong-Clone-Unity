@@ -12,6 +12,7 @@ References:
 Scroll the paddle vertically to reflect the incoming ball! <br>
 The game ends once the ball touches either the left or right edge of the board! <br>
 
+### Controls
 To control the left paddle:
 - w: up
 - s: down
