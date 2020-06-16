@@ -16,6 +16,6 @@ To control the left paddle:
 - w: up
 - s: down
 
-To control the left paddle:
+To control the right paddle:
 - up arrow: up
 - down arrow: down
