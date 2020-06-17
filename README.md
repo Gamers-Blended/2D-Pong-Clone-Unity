@@ -1,6 +1,6 @@
 # Pong-2D-Clone-Unity
 An attempted clone of the classic 1972 arcade game Pong developed by Atari built using Unity. <br>
-References:
+Reference:
 - Code from [Tanay Singhal's Unity 2D Pong Game in 20 Minutes](https://www.youtube.com/watch?v=1oY--Zk9b6w) tutorial on YouTube
 
 ![Board](https://github.com/Gamers-Blended/Pong-2D-Clone-Unity/blob/master/ReadMeFiles/Board.PNG)
